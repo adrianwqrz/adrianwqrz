@@ -11,7 +11,7 @@ Estudante de **Ciência da Computação na UNAMA**, interessado em programação
 
 ### Habilidades e tecnologias
 
-Tecnologias que estudo, utilizo ou tenho interesse em aprofundar meus conhecimentos:
+Tecnologias que estudo e utilizo:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
