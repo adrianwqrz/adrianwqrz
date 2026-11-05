@@ -12,7 +12,8 @@ Estudante de **Ciência da Computação na UNAMA**, interessado em programação
 ## Habilidades e tecnologias
 
 Tecnologias que estudo, utilizo ou tenho interesse em aprofundar meus conhecimentos:
- Ferramentas
+
+Ferramentas
 |---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" alt="Python"> | **Python** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28" alt="C"> | **C** |
